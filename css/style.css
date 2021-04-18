@@ -1,0 +1,246 @@
+body {
+  height: auto;
+  font-size: 20px;
+  font-family: preeti;
+  padding: 100px;
+}
+body .header-section .header-stamp p {
+  text-align: center;
+  line-height: 10px;
+}
+body .header-section .header-stamp h3 {
+  text-align: center;
+  font-weight: bold;
+  line-height: 15px;
+  text-decoration: underline;
+}
+body .greeting-section .greet-ticket .greet p {
+  line-height: 10px;
+}
+body .greeting-section .greet-ticket .ticket p {
+  line-height: 10px;
+  float: right;
+  width: 120px;
+  height: 120px;
+  border: 1px solid #4d4d4d;
+  margin-top: -60px;
+}
+body .greeting-section .greet-ticket .ticket p img {
+  width: 120px;
+  height: 120px;
+}
+body .request-section .request {
+  margin-top: 40px;
+}
+body .request-section .request p {
+  text-indent: 100px;
+  text-align: justify;
+}
+body .customer-details-section .sign-cust-details .customer-signature p {
+  text-align: center;
+  margin-bottom: 40px;
+}
+body .customer-details-section .sign-cust-details .customer-signature .thumbs {
+  margin-left: 90px;
+}
+body .customer-details-section .sign-cust-details .customer-signature .thumbs p {
+  text-align: left;
+  margin-left: -50px;
+  position: absolute;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+body .customer-details-section .sign-cust-details .customer-signature .thumbs .thumb {
+  height: 100px !important;
+  max-width: 100px !important;
+  border: 1px solid #4d4d4d;
+  margin-top: -35px;
+}
+body .customer-details-section .sign-cust-details .customer-signature .thumbs .thumb p img {
+  height: 100px;
+  width: 100px;
+}
+body .customer-details-section .sign-cust-details .customer-detail p {
+  font-weight: bold;
+}
+body .customer-details-section .sign-cust-details .customer-detail .detail-box p {
+  font-weight: normal;
+  line-height: 10px;
+}
+body .customer-details-section .sign-cust-details .customer-detail .detail-box p:nth-child(4) {
+  line-height: 25px;
+}
+body .agreement-section .agree {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+body .agreement-section .agree p {
+  text-indent: 100px;
+  text-align: justify;
+}
+body .documents-section .all-documents {
+  margin-top: 30px;
+}
+body .documents-section .all-documents p {
+  line-height: 12px;
+}
+body .documents-section .all-documents p:first-child {
+  font-weight: bold;
+}
+body .documents-section .all-documents .doc-one .one p {
+  font-weight: normal;
+  line-height: 12px;
+}
+body .documents-section .all-documents .doc-one:nth-child(2) {
+  margin-top: 10px;
+}
+body .documents-section .all-documents .doc-one:nth-child(3) {
+  margin-top: 10px;
+}
+body .official-use-only-section .official-use {
+  margin-top: 40px;
+}
+body .official-use-only-section .official-use h4 {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+body .official-use-only-section .official-use .greeting p {
+  line-height: 12px;
+}
+body .official-use-only-section .official-use .request p {
+  text-indent: 100px;
+}
+body .official-use-only-section .official-use .officer-detail p {
+  line-height: 12px;
+  text-align: right;
+  margin-right: 500px;
+}
+body .list-section .dar-list p {
+  line-height: 12px;
+}
+body .list-section .vechile-color p {
+  line-height: 12px;
+}
+body .list-section .fuel p {
+  line-height: 12px;
+}
+body .darkhastwala-detail .fuel p {
+  line-height: 12px;
+}
+body .karalaya-prayojan {
+  margin-top: 40px;
+}
+body .karalaya-prayojan .fat-signature .fat-official {
+  border-top: 1px solid #4d4d4d;
+  border-bottom: 1px solid #4d4d4d;
+}
+body .karalaya-prayojan .fat-signature .fat-official h4 {
+  font-weight: bold;
+  text-align: center;
+}
+body .karalaya-prayojan .fat-signature .fat-left {
+  border-right: 1px solid #4d4d4d;
+}
+body .karalaya-prayojan .fat-signature .fat-left .fats-signature p {
+  line-height: 12px;
+}
+body .karalaya-prayojan .fat-signature .fat-left .fats-signature p:first-child {
+  margin-top: 200px;
+}
+body .karalaya-prayojan .fat-signature .fat-right .fats-signature {
+  float: left;
+  margin-top: 60px;
+}
+body .karalaya-prayojan .fat-signature .fat-right .fats-signature p {
+  line-height: 12px;
+}
+body .namsari-id .namsari-number .namsari-pro:first-child p {
+  padding-left: 300px;
+}
+body .namsari-id .namsari-number .namsari-pro:nth-child(2) p {
+  font-family: Arial !important;
+  font-size: 14px !important;
+  margin-top: 5px;
+}
+body .namsari-id .namsari-date p {
+  padding-left: 300px;
+  line-height: 12px;
+}
+body .namsari-id .vch-owner {
+  margin-top: 20px;
+}
+body .namsari-id .vch-owner p {
+  text-align: center;
+  height: 194px;
+  width: 194px;
+  padding-top: 60px;
+  border: 1px solid #4d4d4d;
+  margin-left: 450px;
+}
+body .namsari-id .vch-owner p img {
+  width: 192px !important;
+  height: 192px !important;
+  margin-top: -60px !important;
+}
+body .namsari-id .gd .gadi-owner p {
+  margin-left: 0px !important;
+  margin-top: -40px;
+}
+body .namsari-id .owner-details p {
+  padding-left: 300px;
+  line-height: 12px;
+}
+body .namsari-id .gadi-d {
+  margin-top: -150px;
+}
+body .namsari-id .gadi-d .d-line:nth-child(2) p {
+  margin-left: -300px;
+}
+body .namsari-id .all-signature {
+  margin-top: 30px;
+}
+body .namsari-id .all-signature .sticker-sign p {
+  text-align: center;
+  line-height: 12px;
+  font-weight: bold;
+}
+body .sawari-bibaran .blc-back h4 {
+  text-align: center;
+  padding: 5px;
+  color: #fff;
+  background: #000000;
+  width: 50%;
+  margin-left: 26%;
+}
+body .sawari-bibaran .sawari-d:first-child p {
+  margin-left: 300px !important;
+}
+body .sawari-bd {
+  margin-top: 0px !important;
+}
+body .sticker4 .sticker-four .stc-4 p {
+  padding-left: 230px !important;
+}
+body .sticker4 .detail-desc {
+  margin-top: -150px;
+}
+body .sticker4 .detail-desc p {
+  padding-left: 230px;
+}
+body .sticker4 .aautha p {
+  text-align: center;
+}
+body .sticker4 .aautha .daya {
+  height: 150px;
+  width: 200px;
+  border: 1px solid #4d4d4d;
+  margin-bottom: 20px;
+}
+body .sticker4 .aautha .daya p {
+  padding-top: 60px;
+  font-weight: normal;
+}
+body .sticker4 .aautha .daya p img {
+  margin-top: -60px;
+}/*# sourceMappingURL=style.css.map */
