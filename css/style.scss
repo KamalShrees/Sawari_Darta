@@ -33,7 +33,35 @@ body{
         }
     }
 
+    .date-section{
+        .letter{
+            .chalni{
+                p{
+                    line-height: 10px;
+                }
+            }
+
+            .date{
+                p{
+                    padding-left: 300px;
+                }
+            }
+        }
+    }
+
+    .subject-section{
+        margin-top: 30px;
+        .sub-rel{
+            .sub{
+                p{
+                    text-align: right;
+                }
+            }
+        }
+    }
+
     .greeting-section{
+        margin-top: 40px;
         .greet-ticket{
             .greet{
                 p{
@@ -56,6 +84,8 @@ body{
                     }
                 }
             }
+
+            
         }
     }
 
@@ -417,6 +447,34 @@ body{
                 }
             }
 
+        }
+    }
+
+
+    //..................................................................
+    //.......................... Yatat sambandha ma..........................
+
+
+    .tapasil-section, .bodartha-section{
+        margin-top: 40px;
+        .all-tapsil, .all-bodartha{
+            h4{
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+
+            .left-tapsil, .left-bodartha{
+                p{
+                    line-height: 10px;
+                }
+            }
+
+            .right-tapsil, .right-bodartha{
+                p{
+                    line-height: 10px;
+                }
+            }
         }
     }
 }

@@ -14,6 +14,21 @@ body .header-section .header-stamp h3 {
   line-height: 15px;
   text-decoration: underline;
 }
+body .date-section .letter .chalni p {
+  line-height: 10px;
+}
+body .date-section .letter .date p {
+  padding-left: 300px;
+}
+body .subject-section {
+  margin-top: 30px;
+}
+body .subject-section .sub-rel .sub p {
+  text-align: right;
+}
+body .greeting-section {
+  margin-top: 40px;
+}
 body .greeting-section .greet-ticket .greet p {
   line-height: 10px;
 }
@@ -243,4 +258,18 @@ body .sticker4 .aautha .daya p {
 }
 body .sticker4 .aautha .daya p img {
   margin-top: -60px;
+}
+body .tapasil-section, body .bodartha-section {
+  margin-top: 40px;
+}
+body .tapasil-section .all-tapsil h4, body .tapasil-section .all-bodartha h4, body .bodartha-section .all-tapsil h4, body .bodartha-section .all-bodartha h4 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+}
+body .tapasil-section .all-tapsil .left-tapsil p, body .tapasil-section .all-tapsil .left-bodartha p, body .tapasil-section .all-bodartha .left-tapsil p, body .tapasil-section .all-bodartha .left-bodartha p, body .bodartha-section .all-tapsil .left-tapsil p, body .bodartha-section .all-tapsil .left-bodartha p, body .bodartha-section .all-bodartha .left-tapsil p, body .bodartha-section .all-bodartha .left-bodartha p {
+  line-height: 10px;
+}
+body .tapasil-section .all-tapsil .right-tapsil p, body .tapasil-section .all-tapsil .right-bodartha p, body .tapasil-section .all-bodartha .right-tapsil p, body .tapasil-section .all-bodartha .right-bodartha p, body .bodartha-section .all-tapsil .right-tapsil p, body .bodartha-section .all-tapsil .right-bodartha p, body .bodartha-section .all-bodartha .right-tapsil p, body .bodartha-section .all-bodartha .right-bodartha p {
+  line-height: 10px;
 }/*# sourceMappingURL=style.css.map */
